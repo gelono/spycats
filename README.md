@@ -59,6 +59,7 @@ FastAPI automatically generates interactive API documentation. Visit the followi
 - Swagger UI: http://127.0.0.1:8000/docs
 
 - ReDoc UI: http://127.0.0.1:8000/redoc
+- Postman collection: https://elements.getpostman.com/redirect?entityId=19089433-bd394bea-6ecd-4a41-ba65-1d22cb621181&entityType=collection
 
 Notes
 - This project uses SQLAlchemy as the ORM and Alembic for database migrations.
